@@ -5,6 +5,7 @@
   "description": "Step-by-step maths for Dutch secondary school: equations, fractions, percentages, trig, derivatives, statistics.",
   "version": "1.0.0",
   "websiteUrl": "https://wiskunde-hulp.com/",
+  "repository": { "url": "https://github.com/Mustafa77-7/wiskundehulp-mcp", "source": "github" },
   "remotes": [
     { "type": "streamable-http", "url": "https://wiskunde-hulp.com/api/mcp" }
   ]
